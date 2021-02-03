@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 02 21:25:49 BRT 2021:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instância a816c00e-0177-6547-eec1-00000169e978
+no diretório de banco de dados C:\Users\helvetica\Desktop\books_examples\books  
+
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\helvetica\Desktop\books_examples
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
