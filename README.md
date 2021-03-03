@@ -7,10 +7,16 @@
  
  1. Importar o projeto para o Eclipse
  2. Configurar o uso da JDK 7 (se vc tiver outras JDKs instaladas): 
+    
     Botão direito no projeto -> Properties -> Java Compiler
+       
        Marcar "Enable Project specific settings"
+       
        Desmarcar "Use default compliance settings"
+       
        Selecionar 1.7 em "Generated .class compatibility" e "Source compatibility"
+    
     Clicar em Apply and Close
+    
  3. Rodar o projeto
 
