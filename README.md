@@ -10,11 +10,11 @@
     
     Botão direito no projeto -> Properties -> Java Compiler
        
-       Marcar "Enable Project specific settings"
+        Marcar "Enable Project specific settings"
        
-       Desmarcar "Use default compliance settings"
+        Desmarcar "Use default compliance settings"
        
-       Selecionar 1.7 em "Generated .class compatibility" e "Source compatibility"
+        Selecionar 1.7 em "Generated .class compatibility" e "Source compatibility"
     
     Clicar em Apply and Close
     
